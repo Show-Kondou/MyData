@@ -1,3 +1,3 @@
 # MyData
 
-[git](https://github.com/Show-Kondou/MyData/blob/master/ECSTest.gif)
+https://github.com/Show-Kondou/MyData/blob/master/ECSTest.gif?raw=true
